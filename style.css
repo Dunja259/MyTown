@@ -1,0 +1,46 @@
+.card-text-style{
+    font-size: 30px;
+    font-style:italic;
+}
+.card-title-size{
+    font-size:40px;
+    margin:60px 0 0 10px;
+}
+.container-margin{
+    margin:50px;
+}
+.btn-center{
+    margin:10px 0 0 50px;
+}
+.card-center{
+    margin-left:60px;
+}
+.card-title-center{
+    margin-left:75px;
+}
+.card-two-title-center{
+    margin-left:50px;
+}
+.card-three-title-center{
+    margin-left:70px;
+}
+.img-height{
+    height: 400px;
+}
+.card-body-height{
+    height: 300px;
+}
+.card-margin{
+    margin-top:-315px;
+}
+.img-margin{
+    margin-top:115px;
+    margin-left: -15px;
+}
+.card-margin-istorija{
+    height: 200px;
+    margin-top:-315px;
+}
+.img-margin-istorija{
+    margin:75px 0 0 -15px;
+}
